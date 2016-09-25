@@ -18,6 +18,13 @@ git clone git@github.com:hijiangtao/weapp-newsapp.git
 cd weapp-newsapp
 ```
 
+## PREVIEW
+
+![](/preview/preview-1.png)
+![](/preview/preview-2.png)
+![](/preview/preview-3.png)
+![](/preview/preview-4.png)
+
 * 打开微信开发者工具；
 * 添加项目->选择本项目目录->编译执行；
 
