@@ -1,3 +1,4 @@
+/**text.wxss**/
 .textmargin {
   float: left;
 }

@@ -1,7 +1,6 @@
 //text.js
 var util = require('../../utils/util.js')
 var root = getApp()
-// var initData = require('./text.json')
 
 Page({
   data: {
